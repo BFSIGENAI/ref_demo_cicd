@@ -8,7 +8,7 @@ def test_subtract():
     assert subtract(5, 3) == 2
 
 def test_multiply():
-    assert multiply (5, 3) == 5
+    assert multiply (5, 3) == 15
 
 def test_greet():
     assert greet("Malay") == "Hello, Malay!"
