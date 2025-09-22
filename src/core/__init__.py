@@ -1,1 +1,1 @@
-from .math_operations import add, subtract
+from .math_operations import add, subtract, multiply
